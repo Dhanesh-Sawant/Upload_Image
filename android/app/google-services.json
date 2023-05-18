@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765346437786",
+    "project_id": "eye-tracker-15406",
+    "storage_bucket": "eye-tracker-15406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765346437786:android:958aef3fb706a7700ddd23",
+        "android_client_info": {
+          "package_name": "com.example.eyetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765346437786-p0511vlokkio5psgqfccd7d5bb4ctvoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBGQsGHXoz3QHqfqjAy-R85_-KnIirnhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765346437786-p0511vlokkio5psgqfccd7d5bb4ctvoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
